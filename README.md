@@ -1,11 +1,16 @@
 ## Blog "ReadingCat"
 
 ###### Frontend:
-* NextJS;
+* NextJS / React
 * TypeScript;
-* Redux ToolKit.
+* Redux / Redux ToolKit;
+* EditorJS
+* React Hook Form / Yup
+* Material UI
+* SCSS / CSS-modules
 
 ###### Backend:
 * NestJS;
 * TypeOrm;
-* PostgreSQL
+* PostgreSQL;
+* JWT / PassportJS
